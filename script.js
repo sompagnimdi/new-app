@@ -6,3 +6,4 @@ addNumb(8, 7)
 document.getElementById("bottom").innerHTML("hello world")
 
 document.getElementById("header").style.color= greeb;
+document.getElementById("header").style.color= yellow;
