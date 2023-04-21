@@ -14,6 +14,7 @@ const addNumbs(numbs1, numbs2){
     console.log(numbs1 + numbs2)
 }
 document.getElementById("button").addEventListener("click", myFunction);
-addNumbs(6, 7);
+document.getElementsByClassName("header").addEventListener("button", myFunction);
+umbs(6, 7);
 
 document.querySelector(Button).onclick(Button)
