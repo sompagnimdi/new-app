@@ -1,3 +1,5 @@
+const { Button } = require("bootstrap");
+
 const addNumb((numb1, numb2){
     console.log(numb1 + numb2)
 });
@@ -13,3 +15,5 @@ const addNumbs(numbs1, numbs2){
 }
 
 addNumbs(6, 7);
+
+document.querySelector(Button).onclick(Button)
