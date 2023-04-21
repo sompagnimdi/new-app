@@ -13,7 +13,7 @@ document.getElementById("header").style.color= yellow;
 const addNumbs(numbs1, numbs2){
     console.log(numbs1 + numbs2)
 }
-
+document.getElementById("button").addEventListener("click", myFunction);
 addNumbs(6, 7);
 
 document.querySelector(Button).onclick(Button)
