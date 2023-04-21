@@ -7,3 +7,9 @@ document.getElementById("bottom").innerHTML("hello world")
 
 document.getElementById("header").style.color= greeb;
 document.getElementById("header").style.color= yellow;
+
+const addNumbs(numbs1, numbs2){
+    console.log(numbs1 + numbs2)
+}
+
+addNumbs(6, 7);

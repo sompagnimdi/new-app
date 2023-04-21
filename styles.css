@@ -10,4 +10,6 @@
 .bottom{
     color: blue;
     background: none;
+    align-items: center;
+    text-align: center;
 }
