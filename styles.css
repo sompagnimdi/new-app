@@ -13,3 +13,9 @@
     align-items: center;
     text-align: center;
 }
+
+#button{
+    text-align: center;
+    font-size: medium;
+    background: yellow;
+}
