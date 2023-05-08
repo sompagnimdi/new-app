@@ -3,3 +3,17 @@
     align-items: center;
     display: flex;
 }
+
+#header{
+    justify-content: space-between;
+    border: 2px;
+    border-radius: 25px;
+}
+.main {
+    margin-top: 25px;
+}
+
+.footer {
+    margin-top: 5rem;
+    display: contents;
+}
