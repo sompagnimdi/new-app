@@ -1,20 +1,6 @@
-const { Button } = require("bootstrap");
+var button = document.querySelector('button');
+var footer = document.getElementById('header');
 
-const addNumb((numb1, numb2){
-    console.log(numb1 + numb2)
-});
-addNumb(8, 7)
-
-document.getElementById("bottom").innerHTML("hello world")
-
-document.getElementById("header").style.color= greeb;
-document.getElementById("header").style.color= yellow;
-
-const addNumbs(numbs1, numbs2){
-    console.log(numbs1 + numbs2)
-}
-document.getElementById("button").addEventListener("click", myFunction);
-document.getElementsByClassName("header").addEventListener("button", myFunction);
-umbs(6, 7);
-
-document.querySelector(Button).onclick(Button)
+button.onclick = function changeColor(){
+    footer.style.background = 'lightgreen'
+};
